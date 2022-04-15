@@ -5,7 +5,7 @@ use_math: true
 github_username:  ntdyjack
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
 
