@@ -5,7 +5,8 @@ use_math: true
 github_username:  ntdyjack
 
 # Build settings
-theme: cayman
+#theme: cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
 
@@ -14,6 +15,7 @@ plugins_dir:
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
+  - jekyll-remote-theme
 
 titles_from_headings:
   enabled:     true
