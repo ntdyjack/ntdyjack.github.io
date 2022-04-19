@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "webrick"
+
 #specify theme
 gem "minima", "~> 2.5"
 #specify github pages
