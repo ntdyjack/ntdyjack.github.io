@@ -130,7 +130,7 @@ a {
 
 .navbar-nav {
   flex-direction: row;
-  display: flex;
+  display: inline-block;
   list-style: none;
   float: right;
 }
@@ -169,12 +169,15 @@ ul.fa-ul {
   overflow: auto;
   width: 250px;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto; 
+/*  margin: 0 auto; */
 }
 
 ul.fa-ul li {
+        display:inline-block;
 	list-style-type: none;
-	float: left;
+/* 	float: left;  */
+/*        display:inline; */
 }
 
 ul.fa-ul li a i {

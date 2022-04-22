@@ -4,25 +4,9 @@ title: Training
 permalink: /Training
 ---
 
-## Theoretical Proficieincies
-
-| Skill | Exposure (years: formal, practical) |
-| :----: | :----: |
-| Statisics | (3, 8+) |
-| Calculus | (2, 4+) |
-| Linear Algebra | (3, 8+) |
-| Operations Research | (2, 8+) |
-| (Partial) Differential Equations | (1, 2+)  |
-| Genetics/Genomics | (1, 5+) |
-| Immunology | () |
-| GIS/Spatial Inference| (1, 2+) |
-| Back-end Development | (<1, 1+) |
-| Front-end Development | (<1, 1+)  |
-
-
 ## Sc.M. in Biostatistics
 - Johns Hopkins University - Baltimore, MD (2019-2021)
-- Relevant Classwork: Advanced Methods in Biostatistics, Advanced Statistical Inference, Real Analysis, Advanced Data Science, Epidemiology,
+- Relevant Classwork: Advanced Methods in Biostatistics, Advanced Statistical Inference, Advanced Data Science, Real Analysis, Statistical Inference and Probability, Epidemiological Inference
 - [Master's Thesis](https://www.biostat.jhsph.edu/people/alumni/scm2022.shtml)
 
 ## B.A. with Honors in Applied Mathematics

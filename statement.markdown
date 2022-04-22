@@ -4,23 +4,44 @@ title: Statement
 permalink: /Statement
 ---
 
-My formal training includes degrees in Biostatistics (Sc.M. Johns Hopkins University Bloomberg School of Public Health, 2021) and Applied Mathematics (B.A. Honors New College of Florida, 2016).
-These pursuits were intentional enrichment of my theoretical toolset to complement my curiosity for the natural (and digital) world. 
-Practically, these theoretical tools have been applied in mathematical modeling, statistical inference, genomics/genetics, machine learning, operations research, and GIS/spatial statistics.
+I anticipate that the reader will find my mathematical understanding, computational ability, translational acumen,  and a research­oriented, collaborative attitude which will provide insight and acuity to your institution.
+In particular, my capacity to integrate practical experience and theoretical knowledge with domain-specific information yields highly comprehensible deliverables.
+I have embedded a short clip below to illustrate these traits in a formal setting.
 
-In particular, you will find that my capacity in particular to integrate practical experience and theoretical knowledge in tackling new problems.
-In particular, my ability to understand and more importantly convey the meaning of the data. The ability to convey meaning is demonstrated through my publication record. I have experience in(non)relational databases, genomic/genetic data types, images and video processing (detection/classification).
-I believe these capacities are illustrated in my ability to translate findings in visually and thematically cohesive figures and animations. To this end,  I have embedded two figures from recent theoretical 
-
-Typically with integration of multiple .. with agnostic integration of whichever languages suite the given task
-(languages go here).
-and  facilitates me to process and overcome new theoretical and practical challenges.
-I have presented two figures from recent work in my Masters S.CM, to demonstrate how i convey a information through plots.
-I hope you will find my qualifications make me a strong candidate for this position.  
+<figure>
+  <video width="640" height="360" controls>
+   <source src="/images/example_vid1.mp4" type="video/mp4">
+  </video>
+ <figcaption>A small clip of motivating normalization procedures (JSM 2020).</figcaption>
+</figure>
 
 
-Am looking for new challenges in exciting applications for mathematical programming.
+My [formal training](training.markdown) includes degrees in Biostatistics (Sc.M. Johns Hopkins University, 2021) and Applied Mathematics (B.A. New College of Florida, 2016).
+These pursuits represent intentional enrichment of my theoretical toolset; a necessary complement to my curiosity for the natural and digital worlds.
+[In practice](experience.markdown), these tools (mathematical modeling, statistical inference, machine learning, method development) have found application in biological (genetics, genomics, immunology, systems modeling), population (GIS, epidemiology, environmental/public health, ecology), and material science (statistical mechanics, chemical physics) sciences.
+Moreover, I possess aesthetic and inter-personal sensibilities which greatly facilitate my ability to extract and convey core concepts to non-technical audiences, that is, visually and thematically cohesive figures and animations.
+See below for an original design which demonstrates my capacity to graphically represent complex, multiphasic processes.
 
-You will find that my breadth of applied knowledge, adaptability, as well as rigorous theoretical and practical backgrounds make me a compelling candidate to propel your organization past any data-driven problem.
+<figure>
+  <embed align="center" src="/images/example_fig3.pdf" width="800px" height="580px"/>
+  <figcaption> A schematic deliverable (original design).
+   <strong>(A-B)</strong> Diagrammatic representation of data-generating mechanism.
+   <strong>(C-D)</strong> Illustration of proposed solution (signal deconvolution).
+  </figcaption>
+</figure>  
 
-Outside of the digital world, one can find me working toward a self-sufficient homestead in Punta Gorda, FL. 
+The aforementioned capacities apply to technical deliverables, where my forte is the novel integration of multiple disciplines to overcome theoretical and practical challenges.
+In this sense, the majority of my work has required interface of the historical body of work in the topic (prior knowledge) with technical and theoretical expertise to produce novel, efficient, and insightful solutions.
+
+<figure>
+  <embed align="center" src="/images/example_fig1.pdf" width="800px" height="480px"/>
+  <figcaption> A technical deliverable (original design).
+   <strong>(A)</strong> Illustration of data modalities and
+   <strong>(B)</strong> their expected (theoretical) behaviors in terms of a novel performance metric.
+   <strong>(C-D)</strong> Simulated and real data demonstrating artifacts (observation magnitude) may induce (false) bi-modality downstream.
+   <strong>(E)</strong> Comparison of relevant methods for addressing said artifacts.
+  </figcaption>
+</figure>  
+
+You will find my adaptive  body of experience, adaptability, as well as rigorous theoretical and practical backgrounds make me a compelling candidate to propel your organization through any data-driven problems. **<span title="ntdyjack 'at' gmail 'dot' com">contact me (mouseover)</span>**
+
