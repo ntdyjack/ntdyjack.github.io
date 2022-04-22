@@ -16,9 +16,9 @@ I have embedded a short clip below to illustrate these traits in a formal settin
 </figure>
 
 
-My [formal training](training.markdown) includes degrees in Biostatistics (Sc.M. Johns Hopkins University, 2021) and Applied Mathematics (B.A. New College of Florida, 2016).
+My [formal training](/training.markdown) includes degrees in Biostatistics (Sc.M. Johns Hopkins University, 2021) and Applied Mathematics (B.A. New College of Florida, 2016).
 These pursuits represent intentional enrichment of my theoretical toolset; a necessary complement to my curiosity for the natural and digital worlds.
-[In practice](experience.markdown), these tools (mathematical modeling, statistical inference, machine learning, method development) have found application in biological (genetics, genomics, immunology, systems modeling), population (GIS, epidemiology, environmental/public health, ecology), and material science (statistical mechanics, chemical physics) sciences.
+[In practice](/experience.markdown), these tools (mathematical modeling, statistical inference, machine learning, method development) have found application in biological (genetics, genomics, immunology, systems modeling), population (GIS, epidemiology, environmental/public health, ecology), and material science (statistical mechanics, chemical physics) sciences.
 Moreover, I possess aesthetic and inter-personal sensibilities which greatly facilitate my ability to extract and convey core concepts to non-technical audiences, that is, visually and thematically cohesive figures and animations.
 See below for an original design which demonstrates my capacity to graphically represent complex, multiphasic processes.
 
