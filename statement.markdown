@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statement
-permalink: /Statement
+permalink: /statement
 ---
 
 I anticipate that the reader will find my mathematical understanding, computational ability, translational acumen,  and a research­oriented, collaborative attitude which will provide insight and acuity to your institution.

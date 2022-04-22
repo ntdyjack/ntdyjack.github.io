@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skills
-permalink: /Skills
+permalink: /skills
 ---
 
 ## Technical

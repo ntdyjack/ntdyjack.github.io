@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Training
-permalink: /Training
+permalink: /training
 ---
 
 ## Sc.M. in Biostatistics

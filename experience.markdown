@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: /Experience
+permalink: /experience
 ---
 
 **Researcher (2019-2022)**<br/>**Johns Hopkins Bloomberg School of Public Health - Baltimore, MD**

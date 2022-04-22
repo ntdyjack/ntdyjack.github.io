@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Honors
-permalink: /Honors
+permalink: /honors
 ---
 
 ## Presenter
