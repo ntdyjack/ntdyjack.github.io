@@ -10,7 +10,7 @@ title: Home
   <img align="center" src="/images/its_me.jpg" alt="Nathan Dyjack" width="400"/>
 </p>
 
-[Link to a post]({% link skills.markdown %})
+[Link to a post]({{ site.baseurl }}{% link skills.markdown %})
 
 My aptitude is to provide [intelligible, explicit, and domain-aware solutions](skills.markdown) for a [wide breadth of disciplines](experience.markdown) -- I genuinely enjoy immersing myself in new fields.
 I am open to consulting  and contracting (short-term) positions; feel free to **<span title="ntdyjack 'at' gmail 'dot' com">contact me (mouseover)</span>**.
