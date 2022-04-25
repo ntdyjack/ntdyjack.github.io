@@ -30,5 +30,6 @@ permalink: /skills
 | Biology/Bioinformatics | 8+ | (single-cell)RNA-seq, Microarray, Mass Spectrometry, Immunology |
 | Numerical Inference | 8+ | Machine Learning, Statistical Inference, Systems Modeling, Operations Research |
 | Spatial Inference | 6+ | (Arc)GIS(L), Imputation |
+| Time-series Inference | 2+ | Prediction, Risk Management, (G)ARCH |
 | Environmental Science | 4+ | Agriculture, Industrial Hygiene |
 | (Digital) Music Composition | 15+ | Ableton, FLStudio, Audacity |
