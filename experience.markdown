@@ -8,7 +8,7 @@ permalink: /experience
 - Theoretical exploration of discordance measures in the observation classification problem (
 - Designer and maintainer of R package with multiple approximation methods for label-dissimilarity discordance in the classification (clustering) problem
 - Prepared multi-phase pipeline (bash, python, R) for assessment of on-disk dissimilarity calculation and approximation (i.e., locality sensitive hashing, https://github.com/dnbaker/minicore) in multiple downstream analytical performance tests in single-cell RNA-seq datasets
-- Supervisor: [Dr. Stephanie J. Hicks](https://www.stephaniehicks.com/)
+- Supervisor: [Dr. Stephanie C. Hicks](https://www.stephaniehicks.com/)
 <br/><br/>
 
 **Bioninformatics Analyst (2016-2019)**<br/>**National Jewish Health - Denver, CO**
