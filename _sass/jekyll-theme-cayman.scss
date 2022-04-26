@@ -380,8 +380,10 @@ ul.fa-ul li a i {
   blockquote {
     padding: 0 1rem;
     margin-left: 0;
+    text-align: center;
     color: $blockquote-text-color;
     border-left: 0.3rem solid $border-color;
+    font-size: 1.1em;
 
     > :first-child {
       margin-top: 0;
