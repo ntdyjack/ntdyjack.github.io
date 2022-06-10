@@ -23,6 +23,6 @@ permalink: /honors
 | Florida Academic Scholars (FAS) Bright Futures Scholarship | Scholastic-based tuition reimbursement | 2012-2016 |
 | New College Foundation Scholarship | Scholastic-based tuition reimbursement | 2012-2016 |
 | Student Research and Travel Grant | Application-based supplemental funding for independent research | 2014-2016 |
-| National Achievement Scholar | Performance-based recogniziation for PSAT performance | 2012-2016 |
+| National Achievement Scholar | Performance-based recognition for PSAT performance | 2012-2016 |
 | 1A State Champion, Track and Field | Scoring member of state champion team (triple jump) | 2011 |
 

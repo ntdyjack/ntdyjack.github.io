@@ -23,7 +23,7 @@ permalink: /experience
 - Supervisor: [Dr. Max A. Seibold](https://www.seibold-lab.com/)
 <br/><br/>
 
-**Research Intern (2015)**<br/>**Lovelace Respritory Institute - Albuquerque, NM**
+**Research Intern (2015)**<br/>**Lovelace Respiratory Institute - Albuquerque, NM**
 - Lead an spatial/GIS investigation on giant ragweed incidence in the American Midwest. Integrated spatial data from federal, state, and non-governmental databases to conduct imputation and predictive modeling of further ragweed growth.
 - Supervisor: [Dr. Patrick T. McDonald](https://www.ncf.edu/directory/patrick-t-mcdonald/) and [Dr. Tyrone Ryba](https://www.ncf.edu/directory/tyrone-ryba/)
 <br/><br/>
