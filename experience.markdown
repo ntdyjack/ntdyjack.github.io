@@ -4,6 +4,11 @@ title: Experience
 permalink: /experience
 ---
 
+**Consultant (2022-Present)
+- Designer and maintainer of bioinformatics workflows and storage in diangostic health
+- Advisor and designer in cryptocurrency investing: data workflows, forecasting, risk management
+- References available upon request
+
 **Researcher (2019-2022)**<br/>**Johns Hopkins Bloomberg School of Public Health - Baltimore, MD**
 - Theoretical exploration of discordance measures in the observation classification problem (
 - Designer and maintainer of R package with multiple approximation methods for label-dissimilarity discordance in the classification (clustering) problem
