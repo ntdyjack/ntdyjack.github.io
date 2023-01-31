@@ -10,12 +10,12 @@ permalink: /skills
 | :---: | :-: | :------: |
 | R | 8+ | [Method Development](https://cran.r-project.org/web/packages/fasthplus/index.html), Inference, Bioninformatics, Visual Design |
 | Python | 8+ | Keras, TensorFlow, SKLearn, PyTorch |
-| HPC | 8+ | Institutional, Google Cloud, AWS |
-| Institutional Development (pipelines) | 8+ | (ba)sh, Perl, VPL |
-| (full-stack) Development | 4+ | HTML/CSS, JavaScript, Ruby |
+| High-Performance Computing | 8+ | Institutional, Google Cloud, AWS |
+| Non-commercial Development (pipelines) | 8+ | (ba)sh, Perl, VPL |
+| (non-)Relational Databases | 4+ | (t/P/My)-SQL, MongoDB |
 | MATLAB | 4+ | Object-oriented systems modeling, Method Development |
+| Front-end Development | 2+ | HTML/CSS, JavaScript, Ruby |
 | C/C++ | 2+ | High-performance design (blaze, sleef, diskmat) |
-| (non-)Relational Databases | 2+ | MongoDB, (P/My)SQL |
 | SAS | 2+ | Inference, study design and validation |
 
 

@@ -4,7 +4,13 @@ title: Experience
 permalink: /experience
 ---
 
-**Consultant (2022-Present)
+**Senior Healthcare Data Analyst (2022-Present)**<br/>**Memorialcare Medical Group**
+- Designer of analytical workflows for ad-hoc Health Services Research Evaluation (HSRE) group
+- Query hundreds billions of records to create etc. etc.
+- Supervisor: [Dr. Mike Randhawa](https://www.linkedin.com/in/manjit-randhawa-md-mph-a716aa92)
+
+
+**Consultant (2022-Present)**
 - Designer and maintainer of bioinformatics workflows and storage in diangostic health
 - Advisor and designer in cryptocurrency investing: data workflows, forecasting, risk management
 - References available upon request
