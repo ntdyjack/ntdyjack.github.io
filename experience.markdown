@@ -6,7 +6,8 @@ permalink: /experience
 
 **Senior Healthcare Data Analyst (2022-Present)**<br/>**Memorialcare Medical Group**
 - Designer of analytical workflows for ad-hoc Health Services Research Evaluation (HSRE) group
-- Query hundreds billions of records to create etc. etc.
+- Team lead for reporting/utilization of electronic data warehouse utilization, billions of records from dozens of schema.
+- Primary contributor for downstream data visualization and statistical inference.
 - Supervisor: [Dr. Mike Randhawa](https://www.linkedin.com/in/manjit-randhawa-md-mph-a716aa92)
 
 
@@ -16,9 +17,9 @@ permalink: /experience
 - References available upon request
 
 **Researcher (2019-2022)**<br/>**Johns Hopkins Bloomberg School of Public Health - Baltimore, MD**
-- Theoretical exploration of discordance measures in the observation classification problem (
+- Theoretical exploration of discordance measures in the observation classification problem [(FastH+)](https://github.com/ntdyjack/fasthplus)
 - Designer and maintainer of R package with multiple approximation methods for label-dissimilarity discordance in the classification (clustering) problem
-- Prepared multi-phase pipeline (bash, python, R) for assessment of on-disk dissimilarity calculation and approximation (i.e., locality sensitive hashing, https://github.com/dnbaker/minicore) in multiple downstream analytical performance tests in single-cell RNA-seq datasets
+- Prepared multi-phase pipeline (bash, python, R) for assessment of on-disk dissimilarity calculation and approximation (i.e., locality sensitive hashing, [minicore](https://github.com/dnbaker/minicore) ) in multiple downstream analytical performance tests in single-cell RNA-seq datasets
 - Supervisor: [Dr. Stephanie C. Hicks](https://www.stephaniehicks.com/)
 <br/><br/>
 
