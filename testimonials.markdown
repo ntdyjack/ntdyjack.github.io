@@ -6,7 +6,7 @@ permalink: /testimonials
 
 <blockquote>"We tried doing it ourselves and it was taking way too long. Let's just give it to Nathan so he can finish it in an evening."</blockquote>
 <div style="text-align: right">
-  <a href"=http://www.medseva.in/">Medseva Incorporated</a>
+  <a href="http://www.medseva.in/">Medseva Incorporated</a>
 </div>
 
 
